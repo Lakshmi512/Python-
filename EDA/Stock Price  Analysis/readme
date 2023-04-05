@@ -1,0 +1,26 @@
+Exploratory Data Analysis of Live Stock price of Apple, Google, Microsoft & Amazon From IEX(The Investor Exchange) over a year till 5th April 2023
+
+
+
+In this post, I'll be sharing the results of my exploratory data analysis of the live stock prices of Apple, Google, Microsoft, and Amazon, using data obtained from IEX, The Investor Exchange.
+
+I started by collecting the latest stock price data for each company from the IEX API. Using the Pandas library in Python, I then analyzed the data and created visualizations to help me better understand the trends and patterns in the stock prices over time.
+
+The first thing I noticed was that all four companies had seen steady growth in their stock prices over the past year. Microsoft had the highest average price, followed by Amazon, Apple, and Google. However, the growth rates varied between the companies, with Amazon seeing the highest rate of growth, followed by Microsoft, Google, and Apple.
+
+Next, I analyzed the daily price changes for each company. I found that all four companies had experienced significant price fluctuations over the past year, with Amazon being the most volatile. However, despite the fluctuations, all four companies had seen positive returns overall.
+
+To further explore the data, I created a correlation matrix to examine the relationship between the stock prices of each company. The results showed that the stock prices of Microsoft and Apple were highly correlated, while the stock prices of Amazon and Google were weakly correlated.
+
+Finally, I created Line chart to visualize the daily stock price changes for each company over the past year along with Moving Average for 10, 20, 50 days. The chart showed that all four companies had experienced significant volatility, with some days seeing large price inflation or deflation. The overall trend for each  four company  experiencing overall growth in their stock prices over the past year.
+
+Overall, my exploratory data analysis of the live stock prices of Apple, Google, Microsoft, and Amazon from IEX has given me valuable insights into the performance of these popular tech companies. The analysis has shown that while there is some variability in the daily price changes & daily returns by  visualzation of joint plots for all four companies have seen positive growth overall, making them potentially attractive investments for those interested in the stock market. The correlation  of all four's Closing price & Daily returns as well.
+
+
+
+With the guidance of Anand Jha 
+
+
+
+#EDA #stockanalysis #stockmarket #dataanalysis #data #IEX_stocks #Stock_API #python #pandas #numpy #matplotlib  #growth #tech  #apple  #google  #microsoft  #amazon 
+
